@@ -1,0 +1,3 @@
+2022-06-25 16:57:42 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "AUTHOR" not found (this database is empty); SQL statement:
+select author0_.id as id1_0_, author0_.address as address2_0_, author0_.email as email3_0_, author0_.name as name4_0_, author0_.username as username5_0_ from author author0_ [42104-214]
